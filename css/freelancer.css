@@ -100,8 +100,7 @@ margin: 0 auto;
 	margin-bottom: 20px;
 }
 .icon i{
-	
 	padding-right: 30px;
-	border: #FFFFFF;
-	border-radius: 50%;
+	height: 50px;
+	text-align: justify;
 }
