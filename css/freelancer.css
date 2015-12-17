@@ -94,4 +94,14 @@ margin: 0 auto;
 /*footer*/
 .footer{
 	background: #2E2E2E;
+	color: #FFFFFF;
+}
+.footer h4{
+	margin-bottom: 20px;
+}
+.icon i{
+	
+	padding-right: 30px;
+	border: #FFFFFF;
+	border-radius: 50%;
 }
