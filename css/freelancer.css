@@ -1,0 +1,70 @@
+/* Inserta tu código aqui */
+.wrapper {
+width: 980px;
+margin: 0 auto;
+}
+/*Menú*/
+.list-nav{
+	text-align: right;
+}
+
+.list-nav li{
+	display: inline-block;
+}
+.list-nav a{
+	display: block;
+	padding: 5px 20px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400; }
+	/*text-transform: uppercase; esto es para poner en mayuscula si se escribio en minúscula*/ 
+	transition: all 0.5s;/*esto se pone en el estado original*/
+}
+h2 {
+	color:#FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400; 
+	
+	}
+
+.list-nav a:hover{
+	text-decoration: none;
+	color:#FE2E64;
+}
+.header-content{
+	background-color: #24282E;
+}
+.main-menu{
+	padding: 10px;
+}
+/*contentido superstar*/
+.centrado{
+	background-color: #1d9d74;
+	text-align: center;
+	padding:50px 100px ;/*no es necesaria que le ponga la unidad*/
+	color:#FFFFFF;
+}
+/*portafolio*/
+.portafolio ul li{
+	list-style: none;
+	text-decoration: none;
+	margin-bottom: 20px;
+}
+.portafolio img{
+	height: 216px;
+	margin: 0 20 10px 0px;
+}
+.portafolio {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+/*ABOUT*/
+.about{
+	background-color: #1d9d74;
+	color:#FFFFFF;
+	padding: 40px 0 40px 0;
+}
+.about p{
+	color:#FFFFFF;
+}
