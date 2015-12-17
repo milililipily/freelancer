@@ -104,3 +104,9 @@ margin: 0 auto;
 	height: 50px;
 	text-align: justify;
 }
+footer{
+	background-color:#2D323A;
+	color: #C9D1D6;
+	height: 100px;
+	padding-top: 40px;
+}
