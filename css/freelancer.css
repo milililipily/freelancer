@@ -17,15 +17,14 @@ margin: 0 auto;
 	color: #FFFFFF;
 	text-decoration: none;
 	font-family: 'Montserrat', sans-serif;
-	font-weight: 400; }
+	font-weight: 700; }
 	/*text-transform: uppercase; esto es para poner en mayuscula si se escribio en minúscula*/ 
 	transition: all 0.5s;/*esto se pone en el estado original*/
 }
 h2 {
 	color:#FFFFFF;
 	font-family: 'Montserrat', sans-serif;
-	font-weight: 400; 
-	
+	font-weight: 700; 
 	}
 
 .list-nav a:hover{
@@ -40,7 +39,7 @@ h2 {
 }
 /*contentido superstar*/
 .centrado{
-	background-color: #1d9d74;
+	background-color: #04B486;
 	text-align: center;
 	padding:50px 100px ;/*no es necesaria que le ponga la unidad*/
 	color:#FFFFFF;
@@ -61,10 +60,33 @@ h2 {
 }
 /*ABOUT*/
 .about{
-	background-color: #1d9d74;
+	background-color: #04B486;
 	color:#FFFFFF;
 	padding: 40px 0 40px 0;
 }
 .about p{
 	color:#FFFFFF;
+	text-align: justify;
 }
+.about i, .centrado i, .portafolio i{
+	text-align: center;
+	padding:10px 0 10px 0;
+}
+.free{
+	padding:10px 0 0 40px;
+}
+/*contactme*/
+.btn-submit{
+	text-align: center;
+	margin-top: 20px;
+	color: #FFF;
+	background-color: #04B486;
+	border: #04B486;
+	width: 110px;
+	height: 50px;
+	margin-right: 400px;
+}
+.contact{
+	margin-bottom: 60px;
+}
+/**/
