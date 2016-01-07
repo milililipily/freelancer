@@ -93,7 +93,7 @@ margin: 0 auto;
 }
 /*footer*/
 .footer{
-	background: #2E2E2E;
+	background:#2D323A ;
 	color: #FFFFFF;
 }
 .footer h4{
@@ -105,7 +105,7 @@ margin: 0 auto;
 	text-align: justify;
 }
 footer{
-	background-color:#2D323A;
+	background-color: #2E2E2E;
 	color: #C9D1D6;
 	height: 100px;
 	padding-top: 40px;
